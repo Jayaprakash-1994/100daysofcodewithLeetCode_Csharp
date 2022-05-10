@@ -1,0 +1,8 @@
+D:\DotNet Learning\LeetCode\Day 2 Two Sum\Two Sum\bin\Debug\Two Sum.exe.config
+D:\DotNet Learning\LeetCode\Day 2 Two Sum\Two Sum\bin\Debug\Two Sum.exe
+D:\DotNet Learning\LeetCode\Day 2 Two Sum\Two Sum\bin\Debug\Two Sum.pdb
+D:\DotNet Learning\LeetCode\Day 2 Two Sum\Two Sum\obj\Debug\Two Sum.csproj.AssemblyReference.cache
+D:\DotNet Learning\LeetCode\Day 2 Two Sum\Two Sum\obj\Debug\Two Sum.csproj.SuggestedBindingRedirects.cache
+D:\DotNet Learning\LeetCode\Day 2 Two Sum\Two Sum\obj\Debug\Two Sum.csproj.CoreCompileInputs.cache
+D:\DotNet Learning\LeetCode\Day 2 Two Sum\Two Sum\obj\Debug\Two Sum.exe
+D:\DotNet Learning\LeetCode\Day 2 Two Sum\Two Sum\obj\Debug\Two Sum.pdb
